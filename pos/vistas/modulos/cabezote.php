@@ -8,24 +8,24 @@
 		<!-- logo mini -->
 		<span class="logo-mini">
 			
-			<img src="vistas/img/plantilla/icono-blanco.png" class="img-responsive" style="padding:10px">
+			<img src="https://img.icons8.com/external-photo3ideastudio-gradient-photo3ideastudio/480/undefined/external-library-public-service-photo3ideastudio-gradient-photo3ideastudio.png" class="img-responsive" style="padding:10px">
 
 		</span>
 
-		<!-- logo normal -->
+		<!-- logo normal
 
 		<span class="logo-lg">
 			
 			<img src="vistas/img/plantilla/logo-blanco-lineal.png" class="img-responsive" style="padding:10px 0px">
 
-		</span>
+		</span> -->
 
 	</a>
 
 	<!--=====================================
 	BARRA DE NAVEGACIÓN
 	======================================-->
-	<nav class="navbar navbar-static-top" role="navigation">
+	<nav class="navbar navbar-static-top " role="navigation">
 		
 		<!-- Botón de navegación -->
 
@@ -37,7 +37,7 @@
 
 		<!-- perfil de usuario -->
 
-		<div class="navbar-custom-menu">
+		<div class="navbar-custom-menu ">
 				
 			<ul class="nav navbar-nav">
 				
