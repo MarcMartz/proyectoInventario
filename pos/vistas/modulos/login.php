@@ -4,13 +4,13 @@
   
   <div class="login-logo">
 
-    <img src="vistas/img/plantilla/logo-blanco-bloque.png" class="img-responsive" style="padding:30px 100px 0px 100px">
+    <img src="https://img.icons8.com/dusk/480/undefined/library.png" class="img-responsive" style="padding:30px 100px 0px 100px">
 
   </div>
 
   <div class="login-box-body">
 
-    <p class="login-box-msg">Ingresar al sistema</p>
+    <p class="login-box-msg">Bienvenidos a TeamSoft</p>
 
     <form method="post">
 
